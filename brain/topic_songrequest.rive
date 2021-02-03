@@ -1,0 +1,13 @@
+! version = 2.0
+
++ add playlist fails
+- Please look in sogeBot console window if there is an error if yes please fill a bugreport
+
++ add song fails
+@ add playlist fails
+
++ [i] cant add song [*]
+@ add playlist fails
+
++ does (sogebot|bot) support local (playlists|playlist)
+- currently no => <bot feature_request>

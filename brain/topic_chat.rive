@@ -1,0 +1,15 @@
+! version = 2.0
+
++ [*] can bot send (wisper|wispers|wisper message) [*]
+- ```\n
+^ no whispers, also whispers are not reliable and wouldn't work for 99% times\n
+^ a, user must send whisper to bot to have whispers\n
+^ b, whispers are just shit\n
+^ c, if some user flag your bot whisper as spam, you won't ever send another whisper until you get bot verified\n
+^ ```
+
++ [*] can (sogebot|bot) connect to multiple channels [*]
+- currently not but its a planned feature for a long time now
+
++ [*] can i use (sogebot|bot) for multiple channels [*]
+@ can bot connect to multiple channels

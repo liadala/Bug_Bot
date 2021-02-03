@@ -1,0 +1,11 @@
+! version = 2.0
+
++ is it possible to give the moderators access to dashboard
+- curretly not
+
++ i cant login [to bot]
+- Pleas use Chrome and disable all Plugins (AdBlock, NoScript, ...)\n
+^ and if you running sogeBot behind a Reverse Proxy check your Proxy config
+
++ [*] add custom sounds to the soundboard [*]
+- copy to public/dist/soundboard

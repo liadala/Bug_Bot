@@ -1,0 +1,10 @@
+! version = 2.0
+
++ can i use (@Database) for sogebot
+- Currently supported Databases are <bot requirements_db>
+
++ can sogebot (run|hosted) on [a] (raspberry|raspberrypi)
+- yes sogeBot can run on a RaspberryPi
+
++ can sogebot (run|hosted) on (@OS)
+- sogeBot can run on <bot requirements_os>

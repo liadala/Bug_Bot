@@ -1,0 +1,48 @@
+! version = 2.0
+
+// Hi @soge& @NyanLia ! I'm trying to connect sogeBot to my main channel (opposed to my dev channel). When it passes the auth, it says "Insufficient permission". I think this is bc of the 2f auth which is necessary for affiliates. Is there currently a solution for this?
+
+// Random
++ is sogebot like (nightbot|moobot|streamlabs|streamlabsbot)
+- ```yes and no\n
+^ yes, its twitch bot\n
+^ no, its selfhosted bot```
+
++ where i can find a list of all functions calls
+- http://sogehige.github.io/sogeBot/#/filters/all
+
++ sogebot banned a user
+- sogeBot CAN'T ban User or Viewers only Timeout
+
++ where (is|can i find) [the] logfile
+- ```\n
+^ 📂sogeBot\n
+^  ┣📁 bat\n
+^  ┣📁 bin\n
+^  ┣📁 dest\n
+^  ┣📁 docs\n
+^  ┣📁 locales\n
+^  ┣📁 logs\n
+^  ┃┣📄 migration.log\n
+^  ┃┗📄 sogebot.log <-- HERE\n
+^  ┣📁 node_modules\n
+^  ┣📁 public\n
+^  ┣📁 tools\n
+^  ┣📄 .env\n
+^  ┣📄 .env.mysql\n
+^  ┣📄 .env.postgres\n
+^  ┣📄 .env.sqlite\n
+^  ┣📄 .npmrc\n
+^  ┣📄 AUTHORS\n
+^  ┣📄 fonts.json\n
+^  ┣📄 LICENCE\n
+^  ┣📄 package.json\n
+^  ┣📄 package-lock.json\n
+^  ┗📄 sogebot.db\n
+^ ```
+
++ can i import [database] from (streamlabs|streamlabsbot|phantombot|moobot)
+- Currently only for PhantomBot ask for help in some help channel
+
++ any recommendations for hosting
+- you can host sogeBot on Synology/QNAP NAS systems a RaspberryPi and every root server

@@ -1,0 +1,7 @@
+! version = 2.0
+
++ how can i increase a variable by command
+- http://sogehige.github.io/sogeBot/#/filters/all?id=custom-variables
+
++ does sogeBot has a shoutout command
+- add this to Custom Commands `Got Check Out $param and toss them a follow at https://twitch.tv/$param! They were last seen playing (stream|$param|game)`
